@@ -1,18 +1,14 @@
+
 *.err
-
 *.o
-
-/ParADP_GPU/paradp_gpu/data/
-
 *.txt
-
 *.btr
-
 *.zip
 
+/ParADP_GPU/paradp_gpu/data/
 /ParADP_GPU/paradp_gpu/prog
-
 /ParADP_GPU/paradp_gpu/makefile_old
-
 /ParADP_GPU/paradp_gpu/makefileOld
 
+/adp_gpu/makefile_copy
+/adp_gpu/makefileOld
