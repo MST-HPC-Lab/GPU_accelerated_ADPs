@@ -2,7 +2,7 @@
 
 *.o
 
-/ported-paradp-gpu/paradp_gpu/data/
+/ParADP_GPU/paradp_gpu/data/
 
 *.txt
 
@@ -10,9 +10,9 @@
 
 *.zip
 
-/ported-paradp-gpu/paradp_gpu/prog
+/ParADP_GPU/paradp_gpu/prog
 
-/ported-paradp-gpu/paradp_gpu/makefile_old
+/ParADP_GPU/paradp_gpu/makefile_old
 
-/ported-paradp-gpu/paradp_gpu/makefileOld
+/ParADP_GPU/paradp_gpu/makefileOld
 
